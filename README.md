@@ -33,3 +33,9 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### Clone the repository to your pc
+
+```sh
+npx degit leonbohdan/my-vite-template [new-name-to-your-project]
+```
